@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casinoperalada-online.com/
+Sitemap: https://casinoperalada-online.com/sitemap.xml
